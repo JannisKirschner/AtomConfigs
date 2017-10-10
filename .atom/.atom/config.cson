@@ -1,0 +1,23 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "32d84e29-cae6-424c-9e15-3827e1ccca83"
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  welcome:
+    showOnStartup: false

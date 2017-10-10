@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\JANNIS~1.KIR\\AppData\\Local\\Temp\\d-11799-996-ogltl4.9br1z6w29\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\JANNIS~1.KIR\\AppData\\Local\\Temp\\d-11799-996-ogltl4.9br1z6w29\\package.tgz",
+        "spec": "C:\\Users\\JANNIS~1.KIR\\AppData\\Local\\Temp\\d-11799-996-ogltl4.9br1z6w29\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\JANNIS~1.KIR\\AppData\\Local\\Temp\\apm-install-dir-11799-996-1c119mp.zpw17zaor"
+    ]
+  ],
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib\\command.coffee",
+        "lib\\java-generator.coffee",
+        "lib\\parser.coffee",
+        "lib\\variable.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  },
+  "_from": "..\\d-11799-996-ogltl4.9br1z6w29\\package.tgz",
+  "_id": "java-generator@2.2.3",
+  "_inCache": true,
+  "_location": "/java-generator",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\JANNIS~1.KIR\\AppData\\Local\\Temp\\d-11799-996-ogltl4.9br1z6w29\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\JANNIS~1.KIR\\AppData\\Local\\Temp\\d-11799-996-ogltl4.9br1z6w29\\package.tgz",
+    "spec": "C:\\Users\\JANNIS~1.KIR\\AppData\\Local\\Temp\\d-11799-996-ogltl4.9br1z6w29\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-11799-996-ogltl4.9br1z6w29\\package.tgz",
+  "_shasum": "20b7a8674e9e618753d8956b9c2831e6473793e2",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\JANNIS~1.KIR\\AppData\\Local\\Temp\\d-11799-996-ogltl4.9br1z6w29\\package.tgz",
+  "_where": "C:\\Users\\JANNIS~1.KIR\\AppData\\Local\\Temp\\apm-install-dir-11799-996-1c119mp.zpw17zaor",
+  "activationCommands": {
+    "atom-workspace": [
+      "java-generator:generate-constructor",
+      "java-generator:generate-to-string",
+      "java-generator:generate-builder",
+      "java-generator:generate-getters-setters"
+    ]
+  },
+  "author": {
+    "name": "Tom Delebo",
+    "url": "https://github.com/delebota"
+  },
+  "bugs": {
+    "url": "https://github.com/delebota/java-generator/issues"
+  },
+  "dependencies": {},
+  "description": "Generates getter, setter, toString, constructor, and builder methods for java classes.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/delebota/java-generator#readme",
+  "keywords": [
+    "atom",
+    "java",
+    "get",
+    "getter",
+    "set",
+    "setter",
+    "constructor",
+    "toString",
+    "generate",
+    "format",
+    "auto",
+    "automatic",
+    "builder"
+  ],
+  "license": "Apache 2.0",
+  "main": "./lib/java-generator",
+  "name": "java-generator",
+  "optionalDependencies": {},
+  "private": true,
+  "readme": "# Java Generator\n\nAn Atom.io package created to generate getter, setter, toString, constructor, and builder methods for java classes.\n\n## Keyboard Shortcuts\n\n```text\nctrl-alt-g: Generate Getters and Setters\nctrl-alt-c: Generate Constructor\nctrl-alt-t: Generate toString Method\nctrl-alt-b: Generate Builder Method\n```\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delebota/java-generator.git"
+  },
+  "version": "2.2.3"
+}
